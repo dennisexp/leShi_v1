@@ -1,0 +1,7 @@
+{
+  "name": "leShi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
